@@ -1,5 +1,6 @@
 flask
-tensorflow-cpu==2.15.0
+tensorflow==2.13.0
+scikit-learn
 numpy
 flask-cors
 gunicorn
